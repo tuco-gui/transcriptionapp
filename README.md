@@ -1,0 +1,2 @@
+# transcriptionapp
+Transcrição de áudios 
